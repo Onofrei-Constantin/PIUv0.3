@@ -1,0 +1,14 @@
+1;Aditza;Iulian;audi a4;2007;10.04.2020;4500;System.Collections.ArrayList;Negru
+2;dfs;sadsa;dsaasd;das;asda;23232;System.Collections.ArrayList;Verde
+3;adi;tati;audi;20012;213131;4500;System.Collections.ArrayList;Albastru
+4;andrei;vieru;bmw m3;2008;10.10.2019;5600;System.Collections.ArrayList;Galben
+5;adsa;adas;adsa;da;das;sad;System.Collections.ArrayList;Alb
+6;dsfs;fdsa;dfsf;fds;fds;sdfds;System.Collections.ArrayList;Alb
+7;dsads;asda;asdsa;da;asda;dasd;System.Collections.ArrayList;Alb
+8;das;asda;das;dasd;daa;dasd;System.Collections.ArrayList;Rosu
+9;sda;asd;asd;ads;da;ads;System.Collections.ArrayList;Alb
+10;asda;ads;da;dasd;ads;asda;System.Collections.ArrayList;Alb
+11;sda;das;das;da;das;da;;Alb
+12;cvcxv;vxc;cxv;xcv;xcvx;vxc;;Alb
+13;dsfs;dsfds;sdf;fds;dsf;sdf;;Alb
+14;asda;231;asda;123;213;13;Incalzire Scaune Aer Conditionat;Rosu

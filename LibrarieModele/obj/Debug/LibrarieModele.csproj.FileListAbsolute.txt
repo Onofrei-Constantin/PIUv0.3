@@ -1,0 +1,13 @@
+C:\Users\viper\Documents\GitHub\PIU\LibrarieModele\bin\Debug\LibrarieModele.dll.config
+C:\Users\viper\Documents\GitHub\PIU\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\viper\Documents\GitHub\PIU\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\viper\Documents\GitHub\PIU\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\viper\Documents\GitHub\PIU\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\viper\Documents\GitHub\PIU\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\viper\Documents\GitHub\PIUv0.3\LibrarieModele\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\Users\viper\Documents\GitHub\PIUv0.3\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\viper\Documents\GitHub\PIUv0.3\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\viper\Documents\GitHub\PIUv0.3\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\viper\Documents\GitHub\PIUv0.3\LibrarieModele\bin\Debug\LibrarieModele.dll.config
+C:\Users\viper\Documents\GitHub\PIUv0.3\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\viper\Documents\GitHub\PIUv0.3\LibrarieModele\bin\Debug\LibrarieModele.pdb
